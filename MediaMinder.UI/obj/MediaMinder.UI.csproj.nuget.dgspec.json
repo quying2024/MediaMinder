@@ -134,6 +134,14 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[9.0.8, )"

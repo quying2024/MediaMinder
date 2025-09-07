@@ -66,3 +66,12 @@ C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\obj\Release\net9.0-windows\r
 C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\obj\Release\net9.0-windows\MediaMinder.UI.pdb
 C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\obj\Release\net9.0-windows\MediaMinder.UI.genruntimeconfig.cache
 C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\obj\Release\net9.0-windows\ref\MediaMinder.UI.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\obj\Release\net9.0-windows\MediaMinder.UI.sourcelink.json
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\quying\Projects\MediaMinder\MediaMinder.UI\bin\Release\net9.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll

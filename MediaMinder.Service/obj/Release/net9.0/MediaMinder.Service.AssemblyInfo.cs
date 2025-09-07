@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediaMinder.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74fc77cb05eb53fb1ad7c5f88c87e35d6ae65ed0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediaMinder.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediaMinder.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,3 +18,4 @@ C:\Users\quying\Projects\MediaMinder\MediaMinder.Common\obj\Release\netstandard2
 C:\Users\quying\Projects\MediaMinder\MediaMinder.Common\obj\Release\netstandard2.0\MediaMinder.Common.csproj.CoreCompileInputs.cache
 C:\Users\quying\Projects\MediaMinder\MediaMinder.Common\obj\Release\netstandard2.0\MediaMinder.Common.dll
 C:\Users\quying\Projects\MediaMinder\MediaMinder.Common\obj\Release\netstandard2.0\MediaMinder.Common.pdb
+C:\Users\quying\Projects\MediaMinder\MediaMinder.Common\obj\Release\netstandard2.0\MediaMinder.Common.sourcelink.json
