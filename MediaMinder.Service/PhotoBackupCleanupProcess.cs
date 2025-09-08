@@ -1,7 +1,10 @@
-using System.Diagnostics;
 using Microsoft.Extensions.Logging;
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.Threading.Tasks;
 
-namespace MediaMinder.UI
+namespace MediaMinder.Service
 {
     /// <summary>
     /// 照片备份清理进程启动器

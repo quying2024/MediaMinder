@@ -1,7 +1,11 @@
-using System.Diagnostics;
 using Microsoft.Extensions.Logging;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace MediaMinder.UI
+namespace MediaMinder.Service
 {
     /// <summary>
     /// 照片备份和清理服务
